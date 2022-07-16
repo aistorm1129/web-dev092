@@ -23,20 +23,20 @@
 
 - 🏦 I am a Full Stack Developer with 5+years experiences.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-        100% Guaranteed Project Success!
-        Thank you for considering me for your next project.
-        Only make the great success.
-        I have been working as a full-stack developer for 6+ years.
-        I have been working vast type of challenging tech projects and have been fixing 18 websits error free and maintaining client websites.
-        Whether you need, I'm at your disposal.
-        My best practices include considering all options available towards getting your idea live.
-        Well known as perfect result, fast communication.
-        WHY HIRE ME:
-        ✓ 6+ Years of Experience
-        ✓ Professional and Polite
-        ✓ Quality Work within Budget
-        ✓ Long term partnership and support
-        ✓ Clean, Documented Code
+  100% Guaranteed Project Success!
+  Thank you for considering me for your next project.
+  Only make the great success.
+  I have been working as a full-stack developer for 6+ years.
+  I have been working vast type of challenging tech projects and have been fixing 18 websits error free and maintaining client websites.
+  Whether you need, I'm at your disposal.
+  My best practices include considering all options available towards getting your idea live.
+  Well known as perfect result, fast communication.
+  WHY HIRE ME:
+  ✓ 6+ Years of Experience
+  ✓ Professional and Polite
+  ✓ Quality Work within Budget
+  ✓ Long term partnership and support
+  ✓ Clean, Documented Code
 
       I provide the best support using following skill set:
 
@@ -62,6 +62,9 @@
 
 <table>
   <tr>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
@@ -71,9 +74,6 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
   </tr>  
 </table>
 
@@ -122,25 +122,26 @@ Saturday     80 commits     █████░░░░░░░░░░░░�
 Sunday       90 commits     ██████░░░░░░░░░░░░░░░░░░░   25.21%
 
 ```
+
 **I Mostly Code in React/Python/Node/PHP 💻**
 
 ```text
 React     13 repos            ████████░░░░░░░░░░░░░░░░░   31.71%
-Node       9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95%
-Typescript     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95%
-Python          6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
-PHP            2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+Node      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95%
+TS        9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95%
+Python    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
+PHP       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
 
 **I am familiar Code in Blockchain as well 💻**
 
 ```text
-Blockchain     13 repos            ████████░░░░░░░░░░░░░░░░░   31.71%
-Solidity       9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95%
-Typescript     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95%
-React          6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
-php            2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+React          13 repos       ████████░░░░░░░░░░░░░░░░░   31.71%
+Python         9 repos        █████░░░░░░░░░░░░░░░░░░░░   21.95%
+Typescript     9 repos        █████░░░░░░░░░░░░░░░░░░░░   21.95%
+BlockChain     6 repos        ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
+php            2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
 
