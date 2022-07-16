@@ -21,7 +21,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45"> About Me:
 
-- 🏦 I am a Blockchain & Full Stack Developer with 5+years experiences.
+- 🏦 I am a Full Stack Developer with 5+years experiences.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
         100% Guaranteed Project Success!
         Thank you for considering me for your next project.
