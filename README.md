@@ -41,13 +41,12 @@
       I provide the best support using following skill set:
 
       ⭕HTML5, CSS, Tailwind.CSS, Bootstrap, JavaScript, jQuery
-      ⭕React.js/Next.js, React-Redux, TypeScript, Vue.js/Nuxt.js,
-      Node.js/Express.js(6 years of experience), Ejs, Angular
+      ⭕React.js/Next.js, React-Redux, TypeScript, Vue.js/Nuxt.js, Node.js/Express.js(6 years of experience), Ejs, Angular
+      ⭕Python, Django, Flask
       ⭕PHP(7 years of experience): Laravel, CodeIgniter, Magento, WordPress, Webflow
       ⭕MySQL, MongoDB, SQLite, PostgreSQL
       ⭕React Native, Android development, Java, Flutter, Firebase
       ⭕Solidity, Blockchain, Smart Contract, DApps, NFT, etc
-      ⭕Python, Django, Flask
 
       Through working together, you will find I am responsive, flexible, punctual, communicative, transparent, and I work hard for my clients.
       Your Satisfaction as a client will be my number one priority.
@@ -126,22 +125,22 @@ Sunday       90 commits     ██████░░░░░░░░░░░�
 **I Mostly Code in React/Python/Node/PHP 💻**
 
 ```text
-React     13 repos            ████████░░░░░░░░░░░░░░░░░   31.71%
-Node      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95%
-TS        9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95%
-Python    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
-PHP       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+React     13 repos          ████████░░░░░░░░░░░░░░░░░   31.71%
+Node      9 repos           █████░░░░░░░░░░░░░░░░░░░░   21.95%
+TS        9 repos           █████░░░░░░░░░░░░░░░░░░░░   21.95%
+Python    6 repos           ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
+PHP       2 repos           █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
 
 **I am familiar Code in Blockchain as well 💻**
 
 ```text
-React          13 repos       ████████░░░░░░░░░░░░░░░░░   31.71%
-Python         9 repos        █████░░░░░░░░░░░░░░░░░░░░   21.95%
-Typescript     9 repos        █████░░░░░░░░░░░░░░░░░░░░   21.95%
-BlockChain     6 repos        ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
-php            2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+React          13 repos     ████████░░░░░░░░░░░░░░░░░   31.71%
+Python         9 repos      █████░░░░░░░░░░░░░░░░░░░░   21.95%
+Typescript     9 repos      █████░░░░░░░░░░░░░░░░░░░░   21.95%
+BlockChain     6 repos      ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
+php            2 repos      █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
 
