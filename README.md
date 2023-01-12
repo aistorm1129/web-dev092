@@ -3,18 +3,21 @@
 ### **_Contact Details_**
 
 <p align='center'>
-  <a href="https://t.me/alexpak">
+  <!-- <a href="https://t.me/alexpak">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/live:.cid.37628f3176a5e6a0">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:alexpak754@gmail.com">
+  </a>&nbsp;&nbsp; -->
+  <!-- <a href="mailto:alexandeer.andreev@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/developer#1260">
+  <a href="mailto:alexandeer.andreev@gmail.com">
+    <img src="https://img.shields.io/badge/whatsapp me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp; -->
+    <!-- <a href="https://discordapp.com/users/developer#1260">
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
