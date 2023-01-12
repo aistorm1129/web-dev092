@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="28">
 
-### **_Contact Details_**
+<!-- ### **_Contact Details_** -->
 
 <p align='center'>
   <!-- <a href="https://t.me/alexpak">
