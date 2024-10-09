@@ -50,6 +50,8 @@
       ⭕MySQL, MongoDB, SQLite, PostgreSQL
       ⭕React Native, Android development, Java, Flutter, Firebase
       ⭕Solidity, Blockchain, Smart Contract, DApps, NFT, etc
+      ⭕Artificial Intelligence, Machine learning, tensorflow, pytorch, keras, sckit-learn, pandas, numpy, etc
+      ⭕automation, zapier, make, big data,  etc
 
       Through working together, you will find I am responsive, flexible, punctual, communicative, transparent, and I work hard for my clients.
       Your Satisfaction as a client will be my number one priority.
